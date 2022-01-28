@@ -1,3 +1,3 @@
-from Folder.main import Hello
+from tst.main import Hello
 
 Hello()
